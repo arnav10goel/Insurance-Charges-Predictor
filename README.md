@@ -5,3 +5,5 @@ We use the dataset provided which has 6 variables about a person i.e. age, gende
 
 ## Using Linear Regression
 We then split the data and use 20% of it to train our Linear Regression and then use the 80% of the remaining data to test our results.
+
+This project was done for the course on Introduction to Intelligent Systems (CSE-142) - Winter 2021
